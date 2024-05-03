@@ -1,2 +1,1 @@
 # Gladiator
-Gladiator
